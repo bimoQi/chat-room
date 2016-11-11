@@ -1,3 +1,3 @@
-åœ¨cmdé‡Œè¿è¡Œ è·¯å¾„/server.php  (åå°è¿è¡Œ)
+½ÔÚcmdÀïÔËĞĞserver.phpºóÌ¨ÔËĞĞ
 
-æ‰“å¼€index.html  å°±å¯ä»¥äº†
+Ö ÖÔÔËĞĞindex.html¾ÍokÁË
